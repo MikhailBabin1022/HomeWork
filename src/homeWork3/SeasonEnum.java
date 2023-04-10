@@ -1,6 +1,6 @@
 package homeWork3;
 
-public class SeasonEnum {
+public enum SeasonEnum {
     enum Season {
         WINTER,
         SPRING,
