@@ -26,7 +26,7 @@ public class Constructor {
         public static void main(String[] args) {
 
             MyClass obj = new MyClass();
-            System.out.println(obj.getNum()); // Выведет "0"
+            System.out.println(obj.getNum());
         }
     }
 }
