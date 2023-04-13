@@ -1,4 +1,4 @@
-package HomeWork3.Seasons;
+package HomeWork3;
 
 public enum Month {
     public enum MONTH {
@@ -15,5 +15,4 @@ public enum Month {
         OCTOBER,
         NOVEMBER;
     }
-
 }

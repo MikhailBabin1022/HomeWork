@@ -1,7 +1,7 @@
-package HomeWork3.Seasons;
+package HomeWork3;
 
 public class CheckSeasons {
-    public class Season {
+
         public void checkSeason(Month month) {
             switch (month) {
                 case DECEMBER:
@@ -24,9 +24,3 @@ public class CheckSeasons {
                 case NOVEMBER:
                     System.out.println("This autumn");
                     break;
-
-            }
-        }
-
-    }
-}
