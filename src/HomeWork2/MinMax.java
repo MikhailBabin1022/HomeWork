@@ -1,4 +1,4 @@
-package homeWork2;
+package HomeWork2;
 
 public class MinMax {
     public class MinMax {

@@ -1,4 +1,4 @@
-import homeWork1.summa;
+import HomeWork1.summa;
 
 public class Main {
     public static void main(String[] args) {

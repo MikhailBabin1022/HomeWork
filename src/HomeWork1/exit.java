@@ -1,4 +1,4 @@
-package homeWork1;
+package HomeWork1;
 
 public class exit {
     public class Exit {
